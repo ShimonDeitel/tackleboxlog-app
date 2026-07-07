@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "1001",
+      "localizations": [
+        {
+          "description": "Catch-log linking lures to fish caught",
+          "displayName": "Tackle Box Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "tackleboxlog.pro",
+      "referenceName": "Tackle Box Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
